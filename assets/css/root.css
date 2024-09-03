@@ -1,0 +1,30 @@
+:root {
+  /* Color Palette */
+  --lightPrimary-color: #dbecf8;
+  --secondary-color: #2ecc71;
+  --accent-color: #f1c40f;
+  --background-color: #f3f4f6;
+  --text-color: #333;
+  --text-light-color: #fff;
+  --black-color: #000;
+  --button-hover-color: #2980b9;
+  --button-text-color: #fff;
+
+  /* Font Sizes */
+  --font-size-h1: 80px;
+  --font-size-h2: 160px;
+  --font-size-h3: 28px;
+  --font-size-p: 18px;
+  --font-size-small: 14px;
+
+  /* Spacing */
+  --padding-small: 8px;
+  --padding-medium: 16px;
+  --padding-large: 24px;
+  --margin-small: 8px;
+  --margin-medium: 16px;
+  --margin-large: 24px;
+
+  /* Border Radius */
+  --border-radius: 8px;
+}
